@@ -1,0 +1,15 @@
+.recent-news-block {
+  height: 360px;
+  .list-item {
+    padding-left: 0;
+  }
+
+  .empty-icon {
+    margin-top: 70px;
+  }
+
+  .recent-news-header {
+    display: flex;
+    justify-content: space-between;
+  }
+}

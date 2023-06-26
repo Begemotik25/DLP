@@ -1,0 +1,27 @@
+.profile-header {
+  padding: 20px;
+  border-radius: 8px;
+  background-color: white;
+
+  .full-name {
+    font-size: 24px;
+  }
+
+  .description {
+    color: gray;
+    font-style: italic;
+  }
+
+  .content-block {
+    padding: 6px;
+  }
+  .header__avatar {
+    background-color: #d0d0d0;
+    color: #686868;
+  }
+  .edit-block {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+}

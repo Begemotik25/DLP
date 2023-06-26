@@ -1,0 +1,19 @@
+.login-form__header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  .login-form__header-icon {
+    width: 80px;
+    height: 80px;
+    color: #fff;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .login-form__logo-img {
+      border-radius: 60px;
+      margin-top: 80px;
+    }
+  }
+}

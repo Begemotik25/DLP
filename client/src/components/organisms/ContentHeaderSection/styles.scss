@@ -1,0 +1,9 @@
+.content-header-section {
+  display: flex;
+  justify-content: space-between;
+  .search-field {
+    .search-input {
+      width: 300px;
+    }
+  }
+}

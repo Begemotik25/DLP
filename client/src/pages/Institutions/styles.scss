@@ -1,0 +1,16 @@
+.institutions-page {
+  .content-block {
+    background-color: white;
+    height: 80vh;
+    padding: 20px;
+  }
+  .cards-list {
+    height: 600px;
+    align-items: flex-start;
+  }
+  .pagination-block {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+  }
+}
